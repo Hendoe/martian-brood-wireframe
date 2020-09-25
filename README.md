@@ -23,9 +23,13 @@ Martian Brood may seem like an ambitious project, but it is planned to be really
 Users can also opt to Create an Account and Log into that Account on subsequent visits. The Account will include any progress they have made previously. All their aliens, alien structures, and biomass will be readily available as if they never logged off in the first place.
 
 There are 4 unique pages to see in this wireframe:
-  1- The Inventory Screen at {link}
-  2- The Main Screen at {link}
-  3- The Gameplay Screen at {link}
-  4- The Reaction Screen at {link}
+
+  1- The Inventory Screen
+
+  2- The Main Screen
+
+  3- The Gameplay Screen
+
+  4- The Reaction Screen
 
 All the screens are linked to each other and can be easily accessed by following the right paths. At any time the User can click "Martian Brood" in the Navigation Bar to make it back to Inventory Screen. The Inventory Screen has direct links to the Main Screen, Gameplay Screen, and the Reaction Screen. Additionally, a User can also go to the Main Screen and navigate to the Gameplay Screen by clicking "Quickplay". From the Gameplay Screen they can press the "Set Tasks" button to navigate to the Reaction Screen. From the Reaction Screen they can press the "Ok" button to navigate back to the Gameplay Screen. Please note, the "Set Tasks" button is disabled when a User is on the Reaction Screen!
