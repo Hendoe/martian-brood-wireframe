@@ -4,6 +4,8 @@ Welcome to the official Martian Brood Wireframe README!
 
 This file will detail how exactly to navigate the Repository and any information that may be helpful to keep in mind while browsing.
 
+First, here is the link! https://hendoe.github.io/martian-brood-wireframe/inventory
+
 Martian Brood is supposed to be a simple management game for Steven Henderson's first Capstone Project at Thinkful.
 
 The basic premise of Martian Brood is that, in the near future, humanity has successfully colonized Mars. Humans have established numerous settlements and even been able to do some basic terraforming, including making lakes and forests. However, despite a realtively peaceful colonization effort, a danger is sleeping beneath the surface.
