@@ -1,0 +1,45 @@
+body {
+  background-color: #000000;
+  color: #00F010;
+  text-align: center;
+}
+
+.nav-style {
+  border-style: solid;
+  border-width: 0px 2px 4px 2px;
+  display: flex;
+  flex: 1;
+}
+
+.left {
+  flex: 1;
+  justify-content: left;
+}
+
+.center {
+  flex: 1;
+  justify-content: center;
+}
+
+.right {
+  flex: 1;
+  justify-content: right;
+}
+
+
+main {
+  margin-top: 20rem;
+  margin-bottom: 30rem;
+}
+
+footer {
+  border-style: solid;
+  border-width: 4px 2px 0px 2px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+a {
+  color: #FFFFFF;
+}
