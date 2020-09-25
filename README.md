@@ -4,7 +4,7 @@ Welcome to the official Martian Brood Wireframe README!
 
 This file will detail how exactly to navigate the Repository and any information that may be helpful to keep in mind while browsing.
 
-First, here is the link! https://hendoe.github.io/martian-brood-wireframe/inventory
+First, here is the link! https://hendoe.github.io/martian-brood-wireframe/inventory/inventory.html
 
 Martian Brood is supposed to be a simple management game for Steven Henderson's first Capstone Project at Thinkful.
 
