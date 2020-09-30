@@ -22,7 +22,7 @@ Martian Brood may seem like an ambitious project, but it is planned to be really
 
 Users can also opt to Create an Account and Log into that Account on subsequent visits. The Account will include any progress they have made previously. All their aliens, alien structures, and biomass will be readily available as if they never logged off in the first place.
 
-There are 4 unique pages to see in this wireframe:
+There are 5 unique pages to see in this wireframe:
 
   1- The Inventory Screen
 
@@ -32,6 +32,6 @@ There are 4 unique pages to see in this wireframe:
 
   4- The Reaction Screen
 
-  5- The Builder Screen
+  5- The Builder Screens
 
-All the screens are linked to each other and can be easily accessed by following the right paths. At any time the User can click "Martian Brood" in the Navigation Bar to make it back to Inventory Screen. The Inventory Screen has direct links to the Main Screen, Gameplay Screen, and the Reaction Screen. Additionally, a User can also go to the Main Screen and navigate to the Gameplay Screen by clicking "Quickplay". From the Gameplay Screen they can press the "Set Tasks" button to navigate to the Reaction Screen. Or, they can use either "Spawn Aliens" or "Build Alien Structures" to get to the Builder Screen. From the Reaction Screen they can press the "Ok" button to navigate back to the Gameplay Screen. Please note, the "Set Tasks" button is disabled when a User is on the Reaction Screen!
+All the screens are linked to each other and can be easily accessed by following the right paths. At any time the User can click "Martian Brood" in the Navigation Bar to make it back to Inventory Screen. The Inventory Screen has direct links to the Main Screen, Gameplay Screen, and the Reaction Screen. Additionally, a User can also go to the Main Screen and navigate to the Gameplay Screen by clicking "Quickplay". From the Gameplay Screen they can press the "Set Tasks" button to navigate to the Task Builder Screen. Or, they can use either "Spawn Aliens" or "Build Alien Structures" to get to their respective Builder Screens. Both "Spawn Aliens" and "Build Alien Structures" will lead back to the Gameplay Screen if the User clicks their bottom buttons. The Task Builder Screen will lead to the Reaction Screen, however. From the Reaction Screen they can press the "Ok" button to navigate back to the Gameplay Screen. Please note, the "Set Tasks" button is disabled when a User is on the Reaction Screen!

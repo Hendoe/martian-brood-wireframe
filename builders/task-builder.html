@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Martian Brood Gameplay Screen</title>
-  <link rel="stylesheet" href="gameplay.css">
+  <title>Martian Brood Reaction Screen</title>
+  <link rel="stylesheet" href="task-builder.css">
 </head>
 
 <body>
@@ -15,7 +15,7 @@
     <span class="right"><h3>How to Play</h3></span>
   </nav>
   
-  <main class="main-style">
+  <main class="main-style reaction-mode">
     <div class="left aliens-box">
       <h2>Aliens</h2>
       <ul>
@@ -23,7 +23,7 @@
         <li>4 Worker Drones</li>
         <li>2 Warrior Drones</li>
       </ul>
-      <a href="../builders/alien-builder.html"><button class='build-button'>Spawn Aliens</button></a>
+      <button class='build-button' disabled>Spawn Aliens</button>
     </div>
     <div class="right alien-structures-box">
       <h2>Alien Stuctures</h2>
@@ -32,13 +32,23 @@
         <li>3 Watcher Orbs</li>
         <li>1 Spawning Pit</li>
       </ul>
-      <a href="../builders/structure-builder.html"><button class='build-button'>Build Alien Stuctures</button></a>
+      <button class='build-button' disabled>Build Structures</button>
+    </div>
+    <div class="builder-box">
+      <h2>Tasks</h2>
+      <div class="inner-builder">
+          <button class="task-button">Process Biomass</button>
+          <button class="task-button">Harvest Trees</button>
+          <button class="task-button">Attack Settlement</button>
+      </div>
+      <a href="../reaction/reaction.html"><button class='builder-button'>COMMIT TASKS</button></a>
     </div>
   </main>
 
   <footer class="footer">
-    <a href="../builders/task-builder.html"><button>Set Tasks</button></a>
+    <button disabled>Set Tasks</button>
   </footer>
+
 
 </body>
 
